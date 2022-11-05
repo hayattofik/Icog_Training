@@ -1,1 +1,7 @@
+<<<<<<< HEAD
  git reset --hard HEAD21
+=======
+ git reset --hard HEAD21
+ some thing to cherry pick
+ change to be by newbranch 
+>>>>>>> main
